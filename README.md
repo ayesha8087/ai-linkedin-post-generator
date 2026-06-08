@@ -9,10 +9,15 @@ This application helps users generate professional LinkedIn posts using simple i
 # 🚀 Features
 
 ✔ AI-style LinkedIn post generation
+
 ✔ Multiple tone selection
+
 ✔ Professional formatting
+
 ✔ Download generated posts
+
 ✔ Simple and clean UI
+
 ✔ Fast local execution
 
 ---
@@ -42,7 +47,9 @@ This application helps users generate professional LinkedIn posts using simple i
 
 ## 📄 Generated Output
 
-![Output](screenshot16.png) &(screenshot17.png)
+![Output](screenshot16.png)
+
+![Output](screenshot17.png)
 
 ---
 
