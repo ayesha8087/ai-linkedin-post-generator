@@ -43,13 +43,13 @@ This application helps users generate professional LinkedIn posts using simple i
 
 ## 🏠 Home Interface
 
-![Home](screenshot15.png)
+![Home](Screenshot (15).png)
 
 ## 📄 Generated Output
 
-![Output](screenshot16.png)
+![Output](Screenshot (16).png)
 
-![Output](screenshot17.png)
+![Output](Screenshot (17).png)
 
 ---
 
